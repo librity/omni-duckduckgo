@@ -2,7 +2,7 @@
 
 > 🎨 Omni is everywhere [DuckDuckGo](https://duckduckgo.com)
 
-<img src=".github/duckduckgo.png" alt="DuckDuckGo with Omni theme" style="border-radius: 5px"/>
+![Screenshot](.github/duckduckgo.png)
 
 ## How does it work?
 
@@ -45,7 +45,7 @@ location.reload();
 2. Go to [DuckDuckGo](https://duckduckgo.com), open the javascript console and
    paste it there:
 
-<img src=".github/install.png" alt="Installation instructions" style="border-radius: 5px"/>
+![Screenshot](.github/install.png)
 
 An alert with a success message should pop, reload your page and display the new
 colors.
